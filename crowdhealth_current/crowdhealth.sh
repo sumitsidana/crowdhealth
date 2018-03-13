@@ -1,0 +1,2 @@
+javac -cp ../commons-validator-1.4.0.jar:../postgresql-8.2-512.jdbc4.jar:../joda-time-2.5.jar  consolidation/*.java
+java -cp .:../commons-validator-1.4.0.jar:../postgresql-8.2-512.jdbc4.jar:../joda-time-2.5.jar consolidation.HealthTweetDetector ../DataSets/ ../healthandnonhealth ../stopwords.txt ../InputFileTemp ../InputFile ../TrainFile libsvm-3.20/matlab/ ../KeyValuePair ../decisionValue ../KeyValuePair

@@ -1,0 +1,90 @@
+PostgreSQL JDBC Driver Registered!
+Previous :2015-05-30
+Updated :2015-05-29
+Joining Tables
+Joined Tables
+Populating English Tables
+Populated English Tweets 2014-10-08
+English Tweets Size: 1527154
+size: 1227192
+URL Removed
+size: 1227192
+User Name and HashTag removed
+size: 27744
+Filtering Done
+Health Training Data Size: 5070
+Filtered Tweets Size:27744
+SVM preliminary input created
+SVM final output created
+Working Directory = /data/sidana_data/crowdhealth_current/Health
+value of thread: 0
+Classification Done
+Working Directory = /data/sidana_data/crowdhealth_current/Health
+Extracting Health Tweets
+PostgreSQL JDBC Driver Registered!
+number of Health Tweets: 1886
+Health File Written
+Deleting Files
+
+ Total Time: 391676.0
+Joining Tables
+Joined Tables
+Populating English Tables
+Populated English Tweets 2014-10-09
+English Tweets Size: 1468877
+size: 1155984
+URL Removed
+size: 1155984
+User Name and HashTag removed
+size: 23364
+Filtering Done
+Health Training Data Size: 5070
+Filtered Tweets Size:23364
+SVM preliminary input created
+SVM final output created
+Working Directory = /data/sidana_data/crowdhealth_current/Health
+value of thread: 0
+Classification Done
+Working Directory = /data/sidana_data/crowdhealth_current/Health
+Extracting Health Tweets
+PostgreSQL JDBC Driver Registered!
+number of Health Tweets: 1741
+Health File Written
+Deleting Files
+
+ Total Time: 360509.0
+Joining Tables
+Joined Tables
+Populating English Tables
+Populated English Tweets 2014-10-10
+English Tweets Size: 2497504
+size: 1946212
+URL Removed
+size: 1946212
+User Name and HashTag removed
+size: 40044
+Filtering Done
+Health Training Data Size: 5070
+Filtered Tweets Size:40044
+SVM preliminary input created
+SVM final output created
+Working Directory = /data/sidana_data/crowdhealth_current/Health
+value of thread: 0
+Classification Done
+Working Directory = /data/sidana_data/crowdhealth_current/Health
+Extracting Health Tweets
+PostgreSQL JDBC Driver Registered!
+number of Health Tweets: 2594
+Health File Written
+Deleting Files
+
+ Total Time: 625745.0
+Joining Tables
+Joined Tables
+Populating English Tables
+Populated English Tweets 2014-10-11
+English Tweets Size: 3458779
+size: 2656992
+URL Removed
+size: 2656992
+User Name and HashTag removed
